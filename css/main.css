@@ -162,6 +162,41 @@ section{
     background-color: #7983F5;
 }
 
+/* FOOTER */
+
+footer{
+    background-color: #23272A;
+    padding: 20px 20px;
+}
+
+.lang{
+    color: white;
+    align-items: center;
+    gap: 6px;
+}
+
+.flag{
+    border-radius: 5px;
+    width: 25px;
+    height: 100%;
+}
+
+.icon-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social{
+    gap: 10px;
+}
+
+.social i{
+    color: white;
+    padding: 30px 10px;
+}
+
+
 
 
 
