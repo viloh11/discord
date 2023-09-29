@@ -21,3 +21,46 @@ h1, h2, h3, h4, p, strong, span, a, i, ul, ol{
     width: 100%;  
 }
 
+/* NAVBAR */
+header{
+    background-color: #404EED;
+    padding: 20px 20px;
+}
+
+.navbar{
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar img{
+    width: 20%;
+}
+
+.navbar h2{
+    font-size: 18px;
+    align-self: center;
+}
+
+.logo{
+    gap: 10px;
+}
+
+.btn {
+    align-items: center;
+}
+
+.open{
+    text-decoration: none;
+    color: black;
+    white-space: nowrap;
+    margin-right: 30px;
+    font-size: 12px;
+    background-color: white;
+    padding: 7px 15px;
+    border-radius: 40px;
+}
+
+.btn i{
+    font-size: 20px;
+}
